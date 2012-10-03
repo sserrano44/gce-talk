@@ -20,17 +20,10 @@ var SLIDE_CONFIG = {
   presenters: [{
     name: 'Sebastian Serrano',
     company: 'CEO, devsAr',
-    gplus: 'http://plus.google.com/1234567890',
+    gplus: 'http://plus.google.com/107719846429410237500',
     twitter: '@sserrano44',
     www: 'http://www.devsar.com',
     github: 'http://github.com/sserrano44'
-  }/*, {
-    name: 'Second Name',
-    company: 'Job Title, Google',
-    gplus: 'http://plus.google.com/1234567890',
-    twitter: '@yourhandle',
-    www: 'http://www.you.com',
-    github: 'http://github.com/you'
-  }*/]
+  }]
 };
 
